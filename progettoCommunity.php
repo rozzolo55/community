@@ -32,6 +32,14 @@ include 'db.php';
     <button type="submit">Valuta Evento Passato</button>
 </form>
 
+<form action="visualizzaEvento.php" style="display: inline;">
+    <button type="submit">Visualizza gli eventi</button>
+</form>
+
+<form action="visualizzaCommenti.php" style="display: inline;">
+    <button type="submit">Visualizza i commenti</button>
+</form>
+
 <br><br>
 
 <h3>I tuoi Interessi:</h3>
